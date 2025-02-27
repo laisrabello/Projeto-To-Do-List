@@ -14,3 +14,4 @@ O conteúdo do módulo foi sobre JavaScript e abordou tópicos como Manipulaçã
 - `A cada uma dessas ações, e ao recarregar a página, os dados são salvos no Local Storage`
 - `O design é responsivo para telas menores`
 
+Acesse o site: https://laisrabello.github.io/Projeto-To-Do-List/
